@@ -1,1 +1,2 @@
 # neural-network-challenge-2kkg
+Please grade the module 19 challenge assignment titled "neural-network-challenge-2kkg". The file was created on GoogleCoLab with a link submitted in the file titled "attrition_ipynb.ipynb". The file saved after model training is also uploaded titled "attrition_ipynb.ipynb". Thank you. My resources used for the challenge included google searches, Xpert learning, TA during office hours, and Tutors.
